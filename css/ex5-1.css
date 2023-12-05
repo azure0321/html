@@ -1,0 +1,13 @@
+body{
+    margin:0px;
+}
+p{
+    padding:30px;
+    border:dotted 3px darkmagenta;
+    margin:10px;
+    border-radius: 20px;
+    width:600px;
+}
+h3{
+    width:200px;
+}

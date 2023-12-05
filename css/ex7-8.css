@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+    text-align: center;
+    display: inline;
+    font-size:18px;
+}
+a{
+    color:white;
+    background-color:rosybrown;
+}
+a:link, a:active{
+    text-decoration:"none";
+    color:white;    
+}
+a:hover{
+    background-color:chocolate;
+}

@@ -1,0 +1,21 @@
+a:link{
+    text-decoration: none;
+    color:gray;
+    font-size: 20px;
+}
+a:visited{
+    color:darkslateblue;
+}
+a:hover{
+    color:mediumorchid;
+    font-size: 25px;
+}
+a:active{
+    color:coral;
+    font-size: 25px;
+}
+table{
+    background-color:antiquewhite;
+    color:sienna;
+    border:solid 0.5px
+}

@@ -1,0 +1,21 @@
+table{
+    border-collapse:collapse;
+    text-align: center;
+    width:600px;
+    font-size:12px;
+    border-top:solid 5px rosybrown;
+    line-height:180%;
+}
+th{
+    background-color:antiquewhite;
+    line-height:180%;
+}
+tr, th, td{
+    border:solid 2px black;
+}
+#th1, #th2, #th3{
+    width:20%;
+}
+#th4{
+    width:40%;
+}

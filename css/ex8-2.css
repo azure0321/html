@@ -1,0 +1,16 @@
+div{
+    width:100px;
+    height:100px;
+    margin:10px;
+}
+#a, #b{
+    background-color: lightcoral;
+}
+#c{
+    background-color:lightpink;
+    float:right;
+}
+#d{
+    background-color:lightsalmon;
+    float:left;
+}

@@ -1,0 +1,11 @@
+h1{
+    color:violet;
+    text-decoration:underline;
+}
+h3{
+    font-style:italic;
+}
+span{
+    color:crimson;
+    font-family:"돋움"
+}

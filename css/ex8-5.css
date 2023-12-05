@@ -1,0 +1,30 @@
+#wrapper{
+    margin:0 auto;
+    width:500px;
+}
+#header, #sidebar, #section, #footer{
+    font-size:20px;
+    text-align:center;
+    padding-top:30px;
+}
+#header{
+    height:50px;
+    background-color:lightpink;
+}
+#sidebar{
+    width:150px;
+    height:200px;
+    background-color:indianred;
+    float:left;
+}
+#section{
+    background-color:lightcoral;
+    width:350px;
+    height:200px;
+    float:right;
+}
+#footer{
+    background-color:lightpink;
+    height:50px;
+    clear:both;
+}

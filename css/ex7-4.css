@@ -1,0 +1,11 @@
+span{
+    border:solid 2px crimson;
+    color:crimson;
+    display:inline;
+}
+#span2{
+    display:block;
+}
+#span3{
+    display:inline-block;
+}

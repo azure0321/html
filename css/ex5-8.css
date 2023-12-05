@@ -1,0 +1,15 @@
+div{
+    border:solid 2px black;
+    margin:20px;
+    padding:20px;
+    width:400px;
+    box-shadow:5px 5px 10px #888888;
+}
+h3{
+    margin:0px;
+    padding:0px;
+    border-color:lightpink;
+    background-color:lightpink;
+    color:white;
+    text-align: center;
+}

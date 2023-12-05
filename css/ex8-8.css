@@ -1,0 +1,21 @@
+div{
+    font-size:17px;
+    text-align:center;
+    font-weight:100rem;
+    background-color:lightpink;
+    width:100px;
+    height:60px;
+    border:solid 2px black;
+}
+body{
+    margin:30px;
+}
+h3{
+    border:solid 2px black;
+    width:300px;
+}
+.b{
+    position:absolute;
+    left:60px;
+    top:100px;
+}

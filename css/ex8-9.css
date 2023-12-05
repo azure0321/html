@@ -1,0 +1,22 @@
+div{
+    font-size:17px;
+    text-align:center;
+    font-weight:100rem;
+    background-color:lightpink;
+    width:100px;
+    height:60px;
+    border:solid 2px black;
+}
+#parent{
+   width:350px;
+   height:200px;
+   position:relative;
+   padding:90px 0 0 60px;
+   border:solid 2px crimson;
+}
+.b{
+    position:absolute;
+    left:30px;
+    top:60px;
+}
+
